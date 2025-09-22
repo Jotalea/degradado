@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/degradado.egg-info/PKG-INFO
+src/degradado.egg-info/SOURCES.txt
+src/degradado.egg-info/dependency_links.txt
+src/degradado.egg-info/top_level.txt
+src/degradado_jotalea/__init__.py
+src/degradado_jotalea/ansirgb.py
+src/degradado_jotalea/core.py
